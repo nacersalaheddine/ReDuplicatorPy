@@ -2,7 +2,6 @@
 
 ## Run
 
-'''bash
-
+```bash
 python reduplicator.py
-'''
+```
